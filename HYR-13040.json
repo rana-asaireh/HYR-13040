@@ -1,7 +1,7 @@
 {
 	"user_settings": {
 		"user_settings": "user_settings.user_settings",
-		"change_password": "job_seeker.change_password",
+		"change_password": "user_settings.change_password_v1",
 		"change_profile_picture": "user_settings.change_profile_picture",
 		"multi_factor_settings": "user_settings.multi_factor_settings",
 		"multi_factor_authentication_enable_button_label": "user_settings.multi_factor_authentication_enable_button_label",
@@ -25,8 +25,8 @@
 		"logout_all_modal_title": "user_settings.logout_all_modal_title",
 		"logout_all_modal_body": "user_settings.logout_all_modal_body",
 		"close": "others.close",
-		"multi_factor_authentication_enabled_successfully": "NOT_FOUND",
-		"multi_factor_authentication_disabled_successfully": "NOT_FOUND",
+		"multi_factor_authentication_enabled_successfully": "",
+		"multi_factor_authentication_disabled_successfully": "",
 		"enter_your_password_to_confirm": "job_seeker.enter_your_password_to_confirm",
 		"password_placeholder": "signup.password_placeholder",
 		"password_changed_successfully": "job_seeker.password_changed_successfully",
@@ -39,7 +39,7 @@
 		"new_password": "job_seeker.new_password",
 		"confirm_new_password": "job_seeker.confirm_new_password",
 		"current_password": "job_seeker.current_password_v1",
-		"new_password_must_be_different_current_password": "NOT_FOUND",
+		"new_password_must_be_different_current_password": "",
 		"mfa_header": "login.mfa_header",
 		"scan_qr_code": "login.scan_qr_code_v1",
 		"enter_code": "login.enter_code_v1",
@@ -83,4 +83,6 @@
 		"employer_profile_updated_successfully": "multi_employer.profile_updated_successfully"
 	}
 }
+
+
 
