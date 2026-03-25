@@ -80,7 +80,8 @@
 		"select": "others.select",
 		"company_email": "fields_list.company_email",
 		"login_email": "fields_list.login_email",
-		"employer_profile_updated_successfully": "multi_employer.profile_updated_successfully"
+		"profile_updated_successfully": "multi_employer.profile_updated_successfully",
+		"force_logout":""
 	}
 }
 
